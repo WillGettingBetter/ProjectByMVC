@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+caption {
+	padding: 20px;
+}
+
+.tab {
+	width: 500px;
+	margin: 0px auto;
+	border-collapse: collapse;
+	border: 1px solid green;
+}
+
+.tab tr td {
+	border: 1px solid green;
+	padding: 10px;
+}
